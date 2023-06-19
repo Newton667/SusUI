@@ -15,7 +15,7 @@ type the following:
 
 java -jar "SusUI.jar" 
 
-You can also just double dlick SusIU.jar
+You can also just double click SusIU.jar
 
 To distribute this project, zip up the dist folder (including the lib folder)
 and distribute the ZIP file.
